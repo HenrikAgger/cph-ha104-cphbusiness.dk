@@ -1,6 +1,9 @@
 # cph-ha104-cphbusiness.dk
 Security week 9
 
+Security-Mysql 134.209.243.169 
+Security-Tomcat 134.209.225.247
+
 Vi har været næsten det hele øvelsen igennem. Vi mangler at lave følgende: 
 * Create a new folder META_INF in \src\main\resources
 * In this folder, create a file persistence.xml ...
